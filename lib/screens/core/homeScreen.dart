@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          title: Text("Brodcaster App Admin"),
+          title: Text("Flutter Firebase Email Auth"),
           actions: [
             IconButton(
               icon: Icon(Icons.exit_to_app),
